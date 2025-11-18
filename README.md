@@ -21,7 +21,8 @@ Incluye:
 ✔ Línea del tiempo interactiva de proyectos  
 ✔ Sección de profesores guía  
 ✔ Enlaces directos a repositorios y demos  
-✔ Contactos `tel:` y `mailto:`
+✔ Contactos
+
 ✔ Animación reveal al hacer scroll  
 ✔ Estilos personalizados en CSS  
 
