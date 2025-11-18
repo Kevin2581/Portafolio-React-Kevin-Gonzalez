@@ -22,6 +22,7 @@ Incluye:
 ✔ Sección de profesores guía  
 ✔ Enlaces directos a repositorios y demos  
 ✔ Contactos
+
 ✔ Animación reveal al hacer scroll  
 ✔ Estilos personalizados en CSS  
 
