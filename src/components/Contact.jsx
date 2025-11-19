@@ -1,4 +1,5 @@
 import React from 'react'
+import mxFlag from '../assets/mx.svg'
 
 export default function Contact({ addRevealRef }) {
   return (
@@ -11,9 +12,7 @@ export default function Contact({ addRevealRef }) {
         <div className="contact-main">
           <p className="contact-name">
             Kevin del Jesús González Maas
-            <span className="contact-flag" aria-label="México">
-              🇲🇽
-            </span>
+            <img src={mxFlag} alt="Bandera de México" className="contact-flag" />
           </p>
           <p className="contact-phone">
             <i className="fa-solid fa-mobile-screen-button contact-icon" aria-hidden="true"></i>

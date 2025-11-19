@@ -983,9 +983,14 @@ body {
 
 .contact-flag {
   margin-left: 0.45rem;
-  font-size: 1.1rem;
-  font-family: 'Segoe UI Emoji', 'Noto Color Emoji', 'Apple Color Emoji', 'Segoe UI Symbol', sans-serif;
-  line-height: 1;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.contact-flag img,
+.contact-flag {
+  width: 1.1rem;
+  height: auto;
 }
 
 .contact-phone,
