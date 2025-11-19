@@ -11,6 +11,43 @@ Explora mi portafolio completo, animaciones, proyectos y secciones interactivas.
 
 ---
 
+## 📁 Estructura del Proyecto
+
+Portafolio-React-Kevin-Gonzalez/
+├── node_modules/
+│   └── (Dependencias instaladas automáticamente por npm)
+│
+├── public/                   
+│   └── vite.svg             
+│
+├── src/
+│   ├── assets/              
+│   │   └── ... (recursos usados en el portafolio)
+│   │
+│   ├── components/          
+│   │   ├── AboutModal.jsx        
+│   │   ├── Contact.jsx      
+│   │   ├── Hero.jsx      
+│   │   ├── Nav.jsx       
+│   │   ├── Professors.jsx       
+│   │   ├── ProjectsTimeline.jsx.  
+│   │        
+│   │
+│   ├── App.css              
+│   ├── App.jsx             
+│   ├── main.jsx            
+│               
+│
+├── .gitignore           
+├── README.md              
+├── eslint.config.js            
+├── index.html        
+├── package-lock.json               
+└── package.json
+└── vite.config.js
+
+--- 
+
 ## 🧑‍💻 Sobre el Proyecto
 
 Este portafolio fue creado utilizando **React**, implementando animaciones modernas, diseño responsivo y una estructura clara orientada a la presentación profesional.  
